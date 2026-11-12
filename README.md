@@ -18,14 +18,16 @@ shopping list on your phone.
 
 Do these one at a time.
 
-1. Download this kit: on the GitHub page, click the green **Code** button,
+1. Accept the GitHub invite you were emailed. You need a free GitHub account
+   (https://github.com/signup) signed in with the same email.
+2. Download this kit: on its GitHub page, click the green **Code** button,
    then **Download ZIP**.
-2. Unzip it and move the folder somewhere you'll keep it, like your Documents
+3. Unzip it and move the folder somewhere you'll keep it, like your Documents
    folder. Rename it **meal-plan** if you like.
-3. Open the Claude desktop app and go to the **Code** tab.
-4. Start a new session and choose the **meal-plan** folder as its folder.
+4. Open the Claude desktop app and go to the **Code** tab.
+5. Start a new session and choose the **meal-plan** folder as its folder.
    If it asks whether you trust the folder, say yes.
-5. Type **/get-started** and press Enter. Claude asks you a few questions and
+6. Type **/get-started** and press Enter. Claude asks you a few questions and
    sets everything up. Answer in your own words. Typos are fine.
 
 ## Each week
