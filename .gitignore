@@ -1,0 +1,10 @@
+# Your own information stays on your computer, never in the kit
+me.md
+regulars.md
+weeks/*
+!weeks/.gitkeep
+receipts/*
+!receipts/.gitkeep
+recipes/*
+!recipes/_template.md
+.DS_Store

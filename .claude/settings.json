@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 tools/push_reminders.py:*)",
+      "Bash(pbcopy)",
+      "Bash(clip)"
+    ]
+  }
+}
